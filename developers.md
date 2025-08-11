@@ -10,7 +10,7 @@ General
 -------
 
 - **Python:** I propose we use python 3.11
-- **Syntax and style:** The code should conform to [PEP8] (https://peps.python.org/pep-0008/)
+- **Syntax and style:** The code should conform to [PEP8](https://peps.python.org/pep-0008/)
   as much as is possible
 - **Linting:** ``Ruff 0.11.12``
 - **Type checking:** ``mypy 1.8.0``
