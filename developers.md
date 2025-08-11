@@ -31,7 +31,7 @@ optional-dependencies.dev = [
 ]
 
 [tool.mypy]
-files = ["tomobabel", "tests"]
+files = ["tests"] # add any other dirs to be type checked here 
 python_version = "3.11"
 warn_unused_configs = true
 ```
